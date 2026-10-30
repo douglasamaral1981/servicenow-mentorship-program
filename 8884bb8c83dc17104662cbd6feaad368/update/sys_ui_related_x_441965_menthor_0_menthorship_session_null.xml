@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_441965_menthor_0_menthorship_session" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <group_by_field/>
+            <list_id display_value="Menthorship Session - Default view" name="x_441965_menthor_0_menthorship_session" related_list="NULL" sys_domain="global" view="Default view">fd0224dc831457104662cbd6feaad347</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>sysapproval_approver.sysapproval</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 16:46:18</sys_created_on>
+            <sys_id>f10224dc831457104662cbd6feaad349</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 16:46:18</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Menthorship Session - Default view</calculated_name>
+            <filter/>
+            <name>x_441965_menthor_0_menthorship_session</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 16:46:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd0224dc831457104662cbd6feaad347</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Menthorship Session - Default view</sys_name>
+            <sys_package display_value="Menthorship Program" source="x_441965_menthor_0">8884bb8c83dc17104662cbd6feaad368</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Menthorship Program">8884bb8c83dc17104662cbd6feaad368</sys_scope>
+            <sys_update_name>sys_ui_related_x_441965_menthor_0_menthorship_session_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 16:46:18</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

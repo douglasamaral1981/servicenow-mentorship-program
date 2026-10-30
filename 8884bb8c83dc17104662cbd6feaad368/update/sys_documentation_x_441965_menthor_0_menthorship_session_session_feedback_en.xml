@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="session_feedback" label="Session Feedback" language="en" table="x_441965_menthor_0_menthorship_session">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>session_feedback</element>
+            <help/>
+            <hint/>
+            <label>Session Feedback</label>
+            <language>en</language>
+            <name>x_441965_menthor_0_menthorship_session</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 13:35:59</sys_created_on>
+            <sys_id>06767b80831057104662cbd6feaad3ac</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Session Feedback</sys_name>
+            <sys_package display_value="Menthorship Program" source="x_441965_menthor_0">8884bb8c83dc17104662cbd6feaad368</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Menthorship Program">8884bb8c83dc17104662cbd6feaad368</sys_scope>
+            <sys_update_name>sys_documentation_x_441965_menthor_0_menthorship_session_session_feedback_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 13:36:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
