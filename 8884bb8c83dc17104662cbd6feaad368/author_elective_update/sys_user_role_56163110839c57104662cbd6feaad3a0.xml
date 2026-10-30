@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Role criada para fins de exemplo</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_441965_menthor_0.bootcamp_role</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>bootcamp_role</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-28 22:54:29</sys_created_on>
+        <sys_id>56163110839c57104662cbd6feaad3a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_441965_menthor_0.bootcamp_role</sys_name>
+        <sys_package display_value="Menthorship Program" source="x_441965_menthor_0">8884bb8c83dc17104662cbd6feaad368</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Menthorship Program">8884bb8c83dc17104662cbd6feaad368</sys_scope>
+        <sys_update_name>sys_user_role_56163110839c57104662cbd6feaad3a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-28 22:54:29</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Menthorship Program">8884bb8c83dc17104662cbd6feaad368</application>
+        <file_path/>
+        <instance_id>b398d196eb8207dce9bbfddacad0cd5e</instance_id>
+        <instance_name>dev437324</instance_name>
+        <name>sys_user_role_56163110839c57104662cbd6feaad3a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Role criada para fins de exemplo</description><elevated_privilege>false</elevated_privilege><federated_id/><grantable>true</grantable><includes_roles/><name>x_441965_menthor_0.bootcamp_role</name><scoped_admin>false</scoped_admin><suffix>bootcamp_role</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 22:54:29</sys_created_on><sys_id>56163110839c57104662cbd6feaad3a0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_441965_menthor_0.bootcamp_role</sys_name><sys_package display_value="Menthorship Program" source="x_441965_menthor_0">8884bb8c83dc17104662cbd6feaad368</sys_package><sys_policy/><sys_scope display_value="Menthorship Program">8884bb8c83dc17104662cbd6feaad368</sys_scope><sys_update_name>sys_user_role_56163110839c57104662cbd6feaad3a0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 22:54:29</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-1581917918</payload_hash>
+        <record_name>x_441965_menthor_0.bootcamp_role</record_name>
+        <reverted_from/>
+        <source>0484bb8c83dc17104662cbd6feaad36c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-28 22:54:29</sys_created_on>
+        <sys_id>1746b510839c57104662cbd6feaad35c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a184b8db7a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-28 22:54:29</sys_updated_on>
+        <type>Role</type>
+        <update_guid>5346b510189c5710a7d9034bf04e6e5b</update_guid>
+        <update_guid_history>5346b510189c5710a7d9034bf04e6e5b:-1581917918</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_441965_menthor_0.bootcamp_role">e3f385248314d7104662cbd6feaad3a7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-29 13:53:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>56c449ebb50b4f62b18cd9f3b63367c9</sys_id>
+        <sys_metadata>56163110839c57104662cbd6feaad3a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_441965_menthor_0.bootcamp_role</sys_name>
+        <sys_package display_value="Menthorship Program" source="x_441965_menthor_0">8884bb8c83dc17104662cbd6feaad368</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Menthorship Program">8884bb8c83dc17104662cbd6feaad368</sys_scope>
+        <sys_scope_delete display_value="">86ce760de575428293ecf493950de6b1</sys_scope_delete>
+        <sys_update_name>sys_user_role_56163110839c57104662cbd6feaad3a0</sys_update_name>
+        <sys_update_version display_value="sys_user_role_56163110839c57104662cbd6feaad3a0">1746b510839c57104662cbd6feaad35c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-29 13:53:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

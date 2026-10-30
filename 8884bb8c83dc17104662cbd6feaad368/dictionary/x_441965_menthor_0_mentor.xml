@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="e5c4f3cc83dc17104662cbd6feaad324" label="Mentor" max_length="40" name="x_441965_menthor_0_mentor" type="collection">
+        <element label="Expertise area" max_length="40" name="expertise_area" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Other" sequence="4" value="other"/>
+                <element inactive_on_update="false" label="Health" sequence="1" value="health"/>
+                <element inactive_on_update="false" label="Financial" sequence="0" value="financial"/>
+                <element inactive_on_update="false" label="Marketing" sequence="3" value="marketing"/>
+                <element inactive_on_update="false" label="IT" sequence="2" value="it"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Avaliable" max_length="40" name="avaliable" type="boolean"/>
+        <element label="Biography" max_length="1000" name="biography" type="string"/>
+        <element default="0" label="Concluded Sessions" max_length="40" name="concluded_sessions" type="integer"/>
+        <element label="Name" max_length="32" name="name" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="name"/>
+        </index>
+    </element>
+</database>

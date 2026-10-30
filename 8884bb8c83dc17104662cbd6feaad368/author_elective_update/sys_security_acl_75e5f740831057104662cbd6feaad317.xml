@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description/>
+        <local_or_existing>Existing</local_or_existing>
+        <name>x_441965_menthor_0_menthorship_session</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-28 13:33:30</sys_created_on>
+        <sys_id>75e5f740831057104662cbd6feaad317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_441965_menthor_0_menthorship_session</sys_name>
+        <sys_package display_value="Menthorship Program" source="x_441965_menthor_0">8884bb8c83dc17104662cbd6feaad368</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Menthorship Program">8884bb8c83dc17104662cbd6feaad368</sys_scope>
+        <sys_update_name>sys_security_acl_75e5f740831057104662cbd6feaad317</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-28 13:33:30</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Menthorship Program">8884bb8c83dc17104662cbd6feaad368</application>
+        <file_path/>
+        <instance_id>b398d196eb8207dce9bbfddacad0cd5e</instance_id>
+        <instance_name>dev437324</instance_name>
+        <name>sys_security_acl_75e5f740831057104662cbd6feaad317</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_441965_menthor_0_menthorship_session</name><operation display_value="read">read</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 13:33:30</sys_created_on><sys_id>75e5f740831057104662cbd6feaad317</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_441965_menthor_0_menthorship_session</sys_name><sys_package display_value="Menthorship Program" source="x_441965_menthor_0">8884bb8c83dc17104662cbd6feaad368</sys_package><sys_policy/><sys_scope display_value="Menthorship Program">8884bb8c83dc17104662cbd6feaad368</sys_scope><sys_update_name>sys_security_acl_75e5f740831057104662cbd6feaad317</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 13:33:30</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1917302936</payload_hash>
+        <record_name>x_441965_menthor_0_menthorship_session</record_name>
+        <reverted_from/>
+        <source>0484bb8c83dc17104662cbd6feaad36c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-28 13:33:31</sys_created_on>
+        <sys_id>f5e5f740831057104662cbd6feaad31d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a182b744630000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-28 13:33:31</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>b5e5f740fe1057107ddf2e20cdd7261c</update_guid>
+        <update_guid_history>b5e5f740fe1057107ddf2e20cdd7261c:-1917302936</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-29 15:55:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>16d6809597b94b3b803d0e4be2ee0e89</sys_id>
+        <sys_metadata>75e5f740831057104662cbd6feaad317</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_441965_menthor_0_menthorship_session</sys_name>
+        <sys_package display_value="Menthorship Program" source="x_441965_menthor_0">8884bb8c83dc17104662cbd6feaad368</sys_package>
+        <sys_parent display_value="x_441965_menthor_0_menthorship_session">c1e5b740831057104662cbd6feaad308</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Menthorship Program">8884bb8c83dc17104662cbd6feaad368</sys_scope>
+        <sys_scope_delete display_value="">86ce760de575428293ecf493950de6b1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_75e5f740831057104662cbd6feaad317</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_75e5f740831057104662cbd6feaad317">f5e5f740831057104662cbd6feaad31d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-29 15:55:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
